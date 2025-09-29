@@ -1,4 +1,4 @@
-![BloodHound CE running in a Virtual Machine](https://github.com/redteamronin/dev-random/BloodHoundCE/images/BloodHoundCE.png)
+![BloodHound CE running in a Virtual Machine](https://github.com/redteamronin/dev-random/blob/main/BloodhoundCE/images/BloodHoundCE.png)
 
 # BloodHound CE
 
