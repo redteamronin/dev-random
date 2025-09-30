@@ -65,7 +65,7 @@ different plan to start up my bloodhound CE environment:
 Bloodhound is kind of doing this anyway. We are just going to do it in a way that feels a bit dated (like 5 years ago).
 
 ```
-curl -L https://github.com/SpecterOps/BloodHound/blob/main/examples/docker-compose/docker-compose.yml -o docker-compose.yml
+curl -L https://raw.githubusercontent.com/SpecterOps/BloodHound/refs/heads/main/examples/docker-compose/docker-compose.yml -o docker-compose.yml
 docker compose pull & docker compose up
 ```
 - docker compose will look for a docker-compose.yml file in the working directory
